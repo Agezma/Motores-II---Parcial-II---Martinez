@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6911b20363757c146bfa97aa264052a0, type: 3}
+  m_Name: Savannah Highmane
+  m_EditorClassIdentifier: 
+  cardName: Savannah Highmane
+  cost: 5
+  life: 5
+  attack: 6
+  image: {fileID: 2800000, guid: 034d72abb86accf4fa92f4bb15564a32, type: 3}
+  creatureType: 2
